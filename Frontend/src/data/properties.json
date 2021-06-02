@@ -1,0 +1,48 @@
+[
+  {
+    "Id":1,
+    "SellRent": 1,
+    "Type":"House",
+    "Price":100000,
+    "Name":"Harsh Villa",
+    "Image":"prop-1"
+  },
+  {
+    "Id":2,
+    "SellRent": 2,
+    "Type":"House",
+    "Price":1200000,
+    "Name":"Shukan Villa",
+    "Image":"prop-2"
+  },
+  {
+    "Id":3,
+    "SellRent": 1,
+    "Type":"Flat",
+    "Price":1400000,
+    "Name":"Shukan Lotus",
+    "Image":"prop-3"
+  },
+  {
+    "Id":4,
+    "SellRent": 1,
+    "Type":"Shop",
+    "Price":2500000,
+    "Name":"ETC",
+    "Image":"prop-4"
+  },
+  {
+    "Id":5,
+    "SellRent": 2,
+    "Type":"House",
+    "Price":800000,
+    "Name":"Harsh Row House"
+  },
+  {
+    "Id":6,
+    "SellRent": 1,
+    "Type":"House",
+    "Price":700000,
+    "Name":"Harsh House"
+  }
+]
